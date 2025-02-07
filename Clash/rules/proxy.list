@@ -2,8 +2,8 @@
 # AUTHOR: sonshou
 # UPDATED: 2024-07-03 16:16:51
 # DOMAIN: 0
-# DOMAIN-SUFFIX: 35
-# TOTAL: 35
+# DOMAIN-SUFFIX: 36
+# TOTAL: 36
 DOMAIN-SUFFIX,openstreetmap.org
 DOMAIN-SUFFIX,alpinelinux.org
 DOMAIN-SUFFIX,raindrop.io
@@ -38,3 +38,4 @@ DOMAIN-SUFFIX,vscode-unpkg.net
 DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,appstorrent.ru
+DOMAIN-SUFFIX,ollama.com
