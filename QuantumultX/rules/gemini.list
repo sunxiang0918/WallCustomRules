@@ -20,3 +20,4 @@ HOST-SUFFIX,apis.google.com,Gemini
 HOST-KEYWORD,colab,Gemini
 HOST-KEYWORD,developerprofiles,Gemini
 HOST-KEYWORD,generativelanguage,Gemini
+HOST-SUFFIX,ios.chat.openai.com,Gemini
